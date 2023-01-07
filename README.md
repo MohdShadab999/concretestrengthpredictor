@@ -1,4 +1,10 @@
 
+![image](https://user-images.githubusercontent.com/108679367/211168165-bf93b606-c33d-47d6-970b-77df76cdb884.png)
+![image](https://user-images.githubusercontent.com/108679367/211168170-e7307a5a-f4ad-4087-8b1a-8a89c096665e.png)
+![image](https://user-images.githubusercontent.com/108679367/211168171-b0f60b55-6e06-446c-a3e9-e3678109072b.png)
+![image](https://user-images.githubusercontent.com/108679367/211168176-1c3ea846-4321-4fa6-b075-57bc930f0d7a.png)
+
+
 About Dataset
 From: https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
 
