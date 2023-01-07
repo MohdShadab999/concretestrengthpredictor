@@ -47,3 +47,9 @@ Fine Aggregate (component 7) -- quantitative -- kg in a m3 mixture -- Input Vari
 Age -- quantitative -- Day (1~365) -- Input Variable
 
 Concrete compressive strength -- quantitative -- MPa -- Output Variable
+
+
+Contributor-Mohd Shadab
+
+
+App link: https://mohdshadab999-concretestrengthpredictor-app-lf4f8v.streamlit.app/
